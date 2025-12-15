@@ -1,18 +1,26 @@
-# 💫 Sobre mim:
-Aluno na CESAR School<br>Proficiente em Inglês<br>Python
+<h1 align="center">Olá 👋, eu sou Guilherme Berenguer de Lacerda</h1>
+<h3 align="center">Aluno na CESAR School - Ciência da Computação - 2°Período|Proficiente em Língua Inglesa - C2 - University of Michigan|</h3>
 
+- Projeto que visa a fidelização de usuários em portais de notícias [Panora](https://github.com/Natan-Tavares/Panora.git)
 
-## 🌐 Redes sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guilhermeblacerda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gbl2@cesar.school) 
+- Em 2026, estou no **3o Período**
 
-# 💻 Tecnologias:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=guilhermeblacerda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=guilhermeblacerda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeblacerda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- Portal acadêmico feito em Django [Connect](https://github.com/guilhermeblacerda/Connect.git)
 
----
-[![](https://visitcount.itsvg.in/api?id=guilhermeblacerda&icon=0&color=0)](https://visitcount.itsvg.in)
+- Jogo em Arduino que visa a acessibilidade para crianças com TEA [Mentes em Jogo](https://github.com/guilhermeblacerda/Mentes_em_Jogo.git)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Meu LinkedIn é [www.linkedin.com/in/guilhermeblacerda](www.linkedin.com/in/guilhermeblacerda)
+
+- Estudo na **CESAR School**
+
+- E-mail **gbl2@cesar.school**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/guilhermeblacerda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilhermeblacerda" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermeblacerda&" alt="guilhermeblacerda" /></p>
