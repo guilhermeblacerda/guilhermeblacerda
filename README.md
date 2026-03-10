@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou Guilherme Berenguer de Lacerda</h1>
-<h3 align="center">Aluno na CESAR School - Ciência da Computação - 2°Período|Proficiente em Língua Inglesa - C2 - University of Michigan|</h3>
+<h3 align="center">Aluno na CESAR School - Ciência da Computação - 3°Período|Proficiente em Língua Inglesa - C2 - University of Michigan|</h3>
 
 - Projeto que visa a fidelização de usuários em portais de notícias [Panora](https://github.com/Natan-Tavares/Panora.git)
 
